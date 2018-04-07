@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+http://icecast3.play.cz/evropa2-128.mp3
+http://icecast3.play.cz/evropa2-64.mp3
+#EXT-X-ENDLIST
